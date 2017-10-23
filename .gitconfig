@@ -1,0 +1,13 @@
+[user]
+	name = Michael
+	email = mitanac@gmail.com
+[alias]
+	co = checkout
+	s = status
+	cm = commit -m
+	po = pull origin
+	pso = push origin
+[core]
+	editor = /usr/bin/vim
+[pull]
+	rebase = true
